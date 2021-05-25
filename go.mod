@@ -26,3 +26,4 @@ require (
 	gopkg.in/macaron.v1 v1.3.2 // indirect
 	gopkg.in/redis.v2 v2.3.2 // indirect
 )
+
